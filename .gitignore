@@ -1,0 +1,13 @@
+*.class
+*.xml
+**/.idea/**
+**/project/*
+**/target/*
+week1/example/src/main/scala/common/package.scala
+week1/example/scalastyle/scalastyle_config.xml
+week1/example/build.sbt
+week1/example/assignment.sbt
+
+.idea/
+*.iml
+out/
